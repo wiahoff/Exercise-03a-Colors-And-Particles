@@ -8,7 +8,6 @@ The first steps in adding "juicy" features to a simple brick-breaker game.
 
 Move the paddle using A and D. Help the ball break all the bricks.
 
-
 ## Implementation
 
 Built using Unity 2022.3.45f1
@@ -27,4 +26,4 @@ Tweening, Screen Shake, Adding a face, Comet trail, Music and Sound, Shaders, et
 
 ## Created by 
 
-Nathan Mishler
+William Hoffman
